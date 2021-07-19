@@ -1,4 +1,4 @@
-module.exports = [
+db = [
     {
         id: 1,
         slug: 'steve_jobs',
@@ -48,3 +48,4 @@ module.exports = [
         year: '2011',
     },
   ];
+  module.exports = db;
